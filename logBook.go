@@ -16,7 +16,7 @@ type LogBook struct {
 }
 
 func (b LogBook) Record (log []byte) (error) {
-	logTime := jodaTime.Format ("hh:mm:ss a Z / MMM dd, yyyy: ", time.Now ())
+	logTime := jodaTime.Format ("MMM dd, yyyy [hh:mm:ss a Z UTC]: ", time.Now ())
 
 	_, errX := b.logBook.Write ([]byte (logTime))
 	if errX != nil {
