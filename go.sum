@@ -1,0 +1,4 @@
+github.com/qamarian-dtp/err v0.4.0 h1:QGhnti06j8bZR0qn7cK7MfqSW+WOB0JOyKUWzJxul7g=
+github.com/qamarian-dtp/err v0.4.0/go.mod h1:fm/KtLhNmcQ6w5YRzbHRQe3ET7U0qrHnDIs878eRZfg=
+github.com/vjeantet/jodaTime v0.0.0-20170816150230-be924ce213fb h1:9Cx/q/wd5p+BjCDBjY+rauPbwoS+chrnQ9MKMUtv/hs=
+github.com/vjeantet/jodaTime v0.0.0-20170816150230-be924ce213fb/go.mod h1:XK4iy/zfkdRGe+lWQYwmebWh0IIMIe6+wi3APUAiCJ0=
